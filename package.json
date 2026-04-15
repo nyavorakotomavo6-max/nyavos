@@ -1,0 +1,1 @@
+{"name": "your-project-name","version": "1.0.0","description": "A project using Express, CORS, dotenv, and nodemon","main": "index.js","scripts": {"start": "node index.js","dev": "nodemon index.js"},"dependencies": {"express": "^4.17.1","cors": "^2.8.5","dotenv": "^8.2.0"}}
